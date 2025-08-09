@@ -1,8 +1,4 @@
-﻿# Game Of Life
-###### Autore: Michele Delli Paoli
-###### <div style="margin-top:-20px"> Master's Student in Computer Science at University of Salerno</div>
-<br><br>
-
+﻿# Un algoritmo parallelo per la risoluzione di Game Of Life 
 
 
 #### Descrizione del problema
